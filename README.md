@@ -26,7 +26,7 @@ AI evaluates the response
 Feedback is displayed with suggestions
 
 🚀 Installation
-git clone https://github.com/your-username/ai-interview-assistant.git
+git clone https://github.com/utkarshdwivedi-01/ai-interview-assistant.git
 cd ai-interview-assistant
 pip install -r requirements.txt
 python app.py
